@@ -1,0 +1,26 @@
+{
+  "name": "newman-reporter-track-env-vars",
+  "version": "0.0.1",
+  "description": "Newman reporter to track changes in environment variables during the newman run",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakharjoshi/newman-reporter-track-env-vars.git"
+  },
+  "keywords": [
+    "postman",
+    "newman",
+    "reporter",
+    "api",
+    "test"
+  ],
+  "author": "Prakhar Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakharjoshi/newman-reporter-track-env-vars/issues"
+  },
+  "homepage": "https://github.com/prakharjoshi/newman-reporter-track-env-vars#readme"
+}
